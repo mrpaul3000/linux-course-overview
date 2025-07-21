@@ -28,7 +28,7 @@ Here are a few examples of my terminal usage during practice:
 Screenshots with notes can be found [here](notes/linux-cli-notes.pdf)
 
 ## 📜 Certificate
-![Certificate](screenshots/certificate.png)
+![Certificate](alias Certificate)
 
 ## 💬 About This Repo
 This repo serves as a reference and refresher for working with Linux via the command line—an essential skill for cloud engineers, sysadmins, and developers.
