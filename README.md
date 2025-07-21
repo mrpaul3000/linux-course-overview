@@ -20,15 +20,15 @@ This repository contains key learnings and practical command-line examples from 
 
 ## 📷 Screenshots
 Here are a few examples of my terminal usage during practice:
-![Permissions Example](screenshots/permissions.png)
-![Networking Example](screenshots/networking.png)
-![Scripting Examples](screenshots/scripting.png)
+![Scripting Examples](~/linux-course-overview/screenshots/{'bash 1.png','bash 2.png','perl 1.png','python 1.png','executing bash-perl-python commands.png'})
 
 ## 📝 Notes
-Screenshots with notes can be found [here](notes/linux-cli-notes.pdf)
+Notes with Screenshots of practice exercises can be found here: 
+![for Scripting basics](~/linux-course-overview/notes/'Scripting basics.docx)
+![for Building a weather program](~/linux-course-overview/notes/'Building a weather program.docx') 
 
 ## 📜 Certificate
-![Certificate](alias Certificate)
+![Certificate](~/linux-course-overview/certificate/'Linux Command Line Power User.pdf')
 
 ## 💬 About This Repo
 This repo serves as a reference and refresher for working with Linux via the command line—an essential skill for cloud engineers, sysadmins, and developers.
